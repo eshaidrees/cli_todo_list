@@ -1,0 +1,23 @@
+{
+  "name": "cli_todo_list_34",
+  "version": "1.0.0",
+  "description": "Todo list",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "cli_todo_list": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.4"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
